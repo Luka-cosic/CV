@@ -102,9 +102,9 @@ function App() {
                     <div className="linija"></div>
                 </div>
                 <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Što se tiče programiranja u 
-                proteklih deset meseci svakodnevno vežbam programske jezike PHP  i JavaScript.
+                proteklih godinu dana svakodnevno vežbam programske jezike PHP  i JavaScript.
                 Na početku svog učenja prvo sam
-                 se upoznao sa HTML- om i CSS- om, da bih kasnije uz pomć online kurseva Danila 
+                 se upoznao sa HTML-om i CSS-om, da bih kasnije uz pomć online kurseva Danila 
                 Vesovića počeo da učim PHP i JavaScript, objetkno orijentisan nacin pisanja koda na istim
                  programima, a sa bazom podataka MySql sam komunicirao putem PHP-a i preko JS fajlova uz
                   pomać  AJAX-a.
