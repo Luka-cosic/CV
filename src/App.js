@@ -109,7 +109,7 @@ function App() {
                  programima, a sa bazom podataka MySql sam komunicirao putem PHP-a i preko JS fajlova uz
                   pomać  AJAX-a.
                 Sada Trenutno vežbam REACT i NODE praveći aplikacije u tim programima.<br /><br />
-                U linku iznad nalaze se moje prve aplikacije, rađena u REACT-u i NODE-u.</p>
+                U linku iznad nalazi se putanja ka mom GitHub profilu.</p>
 
                 <div className="row">
                     <div className="col-10 offset-1">
