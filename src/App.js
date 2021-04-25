@@ -104,7 +104,9 @@ function App() {
                 <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Što se tiče programiranja u 
                 proteklih godinu dana svakodnevno vežbam programske jezike JavaScript, NODE i REACT.
                 Na početku svog učenja prvo sam se upoznao sa HTML-om i CSS-om, da bih kasnije nastavio usavrsavanje
-                uceci jQuery, AJAX, NODE, REACT, REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP kao i @MATERIAL-UI.</p>
+                uceci jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP kao i @MATERIAL-UI.
+                Kao bazu podataka sam koristio MONGODB a u poslednje vreme radim ma MERN aplikacijama.</p><br/>
+                <p>Dos sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
 
                 <div className="row">
                     <div className="col-10 offset-1">
