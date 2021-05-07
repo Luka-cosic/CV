@@ -106,7 +106,7 @@ function App() {
                 Na početku svog učenja prvo sam se upoznao sa HTML-om i CSS-om, da bih kasnije nastavio usavršavanje
                 učeći jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP kao i @MATERIAL-UI.
                 Kao bazu podataka sam koristio MONGODB a u poslednje vreme radim na MERN aplikacijama.</p>
-                <p>Dos sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
+                <p>Do sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
                 <p>Iznad se nalazi link ka mom gitHub profilu gde mozete videti moje poslednje dve aplikacije rađene u REACT-U i NODE-U.</p>
 
                 <div className="row">
