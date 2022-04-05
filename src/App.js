@@ -132,7 +132,7 @@ function App() {
                     </div>
                     <div className="linija3"></div>
                 </div>
-                <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planiram da kroz zaposlenje usavršim rad u REACT-u, NODE-u . 
+                <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 Rad u vašoj firmi bi mi omogućio timski rad sa kojim bi mogao 
                 jos više da napredujem u ovoj
                  oblasti i na taj nacin obezbedim sigurniju egzistencuju.</p>
