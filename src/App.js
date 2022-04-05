@@ -111,7 +111,7 @@ function App() {
                 </p>
                 <p>Do sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
                 
-                <div className="row">
+                <div className="row row1">
                     <div className="col-10 offset-1">
                         <h3>Razlog preusmerenja</h3>
                     </div>
