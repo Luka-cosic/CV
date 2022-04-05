@@ -104,12 +104,12 @@ function App() {
                 <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Što se tiče programiranja u 
                 proteklih godinu dana svakodnevno vežbam programske jezike JavaScript, NODE i REACT.
                 Na početku svog učenja prvo sam se upoznao sa HTML-om i CSS-om, da bih kasnije nastavio usavršavanje
-                učeći jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP.
+                učeći jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio CSS-a i BOOTSTRAP.
                 Dobio sam informaciju da vi u vasoj firmi radite u PHP programu, tako da sam se upoznao sa osnovama PHP-a i bazu podataka MySQL sam koristio vazbajući CRUD
                 sistem.
         U navedenim programima sam uradio nekoliko aplikacija koje vam mogu pokazati na razgovoru.
                 </p>
-                <p>Do sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
+                <p>Do sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da radim u vasoj firmi.</p>
                 
                 <div className="row row1">
                     <div className="col-10 offset-1">
