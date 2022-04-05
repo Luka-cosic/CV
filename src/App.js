@@ -7,15 +7,6 @@ function App() {
     return (
         <div>
             <div className="github">
-            <div className="row">
-                        <div className="col-2 offset-1">
-                        <h3><GoMarkGithub /></h3>
-                        </div>
-                        <div className="col-8 offset-1">
-                            <a href="https://github.com/Luka-cosic">GitHub</a>
-                        </div>
-                    </div><hr/>
-            </div>
             <img src="slike/luka.jpg" alt="" />
             <div className="contact">
                 <div className="container"><br />
@@ -104,11 +95,13 @@ function App() {
                 <p className="text">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Što se tiče programiranja u 
                 proteklih godinu dana svakodnevno vežbam programske jezike JavaScript, NODE i REACT.
                 Na početku svog učenja prvo sam se upoznao sa HTML-om i CSS-om, da bih kasnije nastavio usavršavanje
-                učeći jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP kao i @MATERIAL-UI.
-                Kao bazu podataka sam koristio MONGODB a u poslednje vreme radim na MERN aplikacijama.</p>
+                učeći jQuery, AJAX, NODE, REACT i REDUX a za stilizovanje sam koristio pored CSS-a i BOOTSTRAP.
+                Dobio sam informaciju da vi u vasoj firmi radite u PHP programu, tako da sam se upoznao sa osnovama PHP-a i bazu podataka MySQL sam koristio vazbajući CRUD
+                sistem.
+        U navedenim programima sam uradio nekoliko aplikacija koje vam mogu pokazati na razgovoru.
+                </p>
                 <p>Do sada nisam imao radnog iskustva u ovoj oblasti tako da sam zainteresovan da odradim praksu u vasoj firmi.</p>
-                <p>Iznad se nalazi link ka mom gitHub profilu gde mozete videti moje poslednje dve aplikacije rađene u REACT-U i NODE-U.</p>
-
+                
                 <div className="row">
                     <div className="col-10 offset-1">
                         <h3>Razlog preusmerenja</h3>
