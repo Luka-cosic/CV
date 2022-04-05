@@ -7,6 +7,15 @@ function App() {
     return (
         <div>
             <div className="github">
+        <div className="row">
+                        <div className="col-2 offset-1">
+                        <h3><GoMarkGithub /></h3>
+                        </div>
+                        <div className="col-8 offset-1">
+                            <a href="https://github.com/Luka-cosic">GitHub</a>
+                        </div>
+                    </div><hr/>
+            </div>
             <img src="slike/luka.jpg" alt="" />
             <div className="contact">
                 <div className="container"><br />
